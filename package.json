@@ -14,7 +14,7 @@
     "discord.js": "^12.1.1",
     "google-auth-library": "^6.0.0",
     "google-spreadsheet": "^3.0.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.5.5",
     "node-gyp": "^6.1.0",
     "nodemon": "^2.0.3",
