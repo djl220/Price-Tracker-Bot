@@ -5,7 +5,7 @@ var fs = require("fs");
 var https = require("https");
 var moment = require("moment");
 discordClient.login(
-  "Njk3MjMzODkwMDUzNTg2OTY1.Xo0ctQ.1664fDOaqFgOk1dDuMwjNT2pBas"
+  ""
 );
 const anyc = require("anychart-nodejs");
 const JSDOM = require("jsdom").JSDOM;
